@@ -40,4 +40,5 @@ idade = int(input())
 if idade < 18:
     print("Você não poderá entrar")
 else:
+
     print("Aproveite a festa!")
